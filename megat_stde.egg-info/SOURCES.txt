@@ -1,0 +1,9 @@
+setup.py
+megat_stde.egg-info/PKG-INFO
+megat_stde.egg-info/SOURCES.txt
+megat_stde.egg-info/dependency_links.txt
+megat_stde.egg-info/requires.txt
+megat_stde.egg-info/top_level.txt
+src/__init__.py
+src/models.py
+src/stde.py
